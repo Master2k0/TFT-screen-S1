@@ -52,7 +52,7 @@ function sample(rate, format) {
                 case '1':
                     return _12hours + ':' + pad(_minutes, 2);
                 case '2':
-                    return pad(_seconds, 2);
+                    return ':' + pad(_seconds, 2);
                 case '3':
                     return _am_pm;
                 default:
