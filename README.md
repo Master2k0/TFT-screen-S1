@@ -1,3 +1,8 @@
+# Đây là custom của tui
+### Các bước để setup hay chỉnh sửa:
+1. s1panel/themes/simple_demo/portrait_simple.json file nayf để quản lý các screen hiện trên màn hình
+2. s1panel/sensors quản lý các sensor và tốc độ lấy mẫu của từng sensor
+
 # AceMagic-S1-LED-TFT-Linux
 ACEMAGIC S1 Mini LCD/LED Control for Linux
 
